@@ -1,10 +1,11 @@
-#.bundle/
-#log/*.log
-#pkg/
+<<<<<<< HEAD
+.bundle/
+log/*.log
+pkg/
 test/dummy/db/*.sqlite3
 test/dummy/log/*.log
 test/dummy/tmp/
-
+=======
 *.rbc
 *.sassc
 .sass-cache
@@ -21,4 +22,4 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
-
+>>>>>>> b567b15be1fc772145294b77b39db1efdf35ae20
